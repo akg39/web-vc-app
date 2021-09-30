@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2)),
+    url(https://i.pinimg.com/564x/a8/fd/33/a8fd33f012f4a5370f8a5b047893480d.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
